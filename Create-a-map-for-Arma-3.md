@@ -110,7 +110,8 @@ The amount of time for this process to do its thing and finish will vary on a va
 You will know when the process has finished, as this will pop up:
 ![image](https://cdn.discordapp.com/attachments/1135252966144737290/1301280603664285786/image.png?ex=6723e780&is=67229600&hm=0658de7288dfe3e49d00ebe44293198c5ba4b8e74adb15b789e98846a12c6cc1&)
 
-# 7. Using the Generate Mod (Adding it to the Launcher, Seeing in-game)
+# 7. Using the Generate Mod
+Adding it to the Launcher, Seeing in-game
 1. Once the pop-up (As shown above) has appeared, select the "View in File Explorer" option. It should open up file explorer.
 2. Go up 1 folder, so that now you are looking at a folder named @YourWorldName
 3. Open up Arma 3 launcher, and drag the *above* folder onto the launcher.

@@ -113,7 +113,8 @@ You will know when the process has finished, as this will pop up:
 # 7. Using the Generate Mod (Adding it to the Launcher, Seeing in-game)
 1. Once the pop-up (As shown above) has appeared, select the "View in File Explorer" option. It should open up file explorer.
 2. Go up 1 folder, so that now you are looking at a folder named @YourWorldName
-3. Open up Arma 3 launcher, and drag the *above* folder onto the launcher, it should now show at the bottom, ensure you press the "load mod" option. 
+3. Open up Arma 3 launcher, and drag the *above* folder onto the launcher.
+    - It should now show at the bottom, ensure you press the "load mod" option. 
 ![image](https://i.gyazo.com/42d72486247071f31469ed8bc5817a4d.jpg)
 4. Add any other additional mods that either you or your asset pack requires. 
 5. Save the mods you have loaded as a preset.
@@ -125,9 +126,9 @@ You can now move onto improving your map!
 
 You can use Eden Editor (Arma 3 builtin scenario editor) to edit map to improve the generator result. This is the recommended way for most users. See [Edit With Eden Editor](Edit-With-Eden-Editor).
 
-You may otherwise use Terrain Builder to edit map, this tool is intend for experienced terrain makers. See [Terrain Builder Export](Terrain-Builder-Export).
+You may otherwise use Terrain Builder to edit map, this tool is intended for experienced terrain makers. See [Terrain Builder Export](Terrain-Builder-Export).
 
-Comparaison of features of two edit process:
+Comparison of features of two edit process:
 
 | Feature                   | [Eden Editor](Edit-With-Eden-Editor) | [Terrain Builder](Terrain-Builder-Export) |
 |---------------------------|-------------------|----------------------------|

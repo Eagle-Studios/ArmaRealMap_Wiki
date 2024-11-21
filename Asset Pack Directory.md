@@ -39,3 +39,17 @@ Requires:
 - [CUP Terrains - Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987)
 
 Created by @c.eagle - https://drive.google.com/file/d/1Gh-M4vJgigfV8NXeq6YlS8tidiYBFxNB/view?usp=sharing
+
+## Mediterranean - greece3edited.grm3a
+Requires: 
+- [Arma Realistic Map Assets V2
+](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
+
+Created by @shearstf - https://drive.google.com/file/d/
+
+## Vanilla Mediterranean - greece3edited_vanilla.grm3a
+Requires:
+
+- Nothing, completely vanilla assets (This is pretty much the only difference; the original (greece3edited) has better textures from Realistic Asset Pack)
+
+Created by @c.eagle - https://drive.google.com/file/d/

@@ -8,15 +8,13 @@ If you wish to have your Asset Pack included in this directory, upload it to the
 
 ## Central Europe - CentralEurope.grma3a
 Requires:
-- [Arma Realistic Map Assets V2
-](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
+- [Arma Realistic Map Assets V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
 
 Built into GRM Studio
 
 ## Sahel - Sahel.grma3a
 Requires:
-- [Arma Realistic Map Assets V2
-](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
+- [Arma Realistic Map Assets V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
 - [CUP Terrains - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
 - [Jbad](https://steamcommunity.com/sharedfiles/filedetails/?id=520618345)
 
@@ -45,11 +43,21 @@ Requires:
 - [Arma Realistic Map Assets V2
 ](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
 
-Created by @shearstf - https://drive.google.com/file/d/
+Created by @shearstf - https://drive.google.com/file/d/1t5DRr4MNKgzbYX_hZbhmagrhzfMcxkUy/view?usp=sharing
 
-## Vanilla Mediterranean - greece3edited_vanilla.grm3a
+## Colombia / South America Tropical - Colombia.grma3a
 Requires:
 
-- Nothing, completely vanilla assets (This is pretty much the only difference; the original (greece3edited) has better textures from Realistic Asset Pack)
+- [Arma Realistic Map Assets V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
+- [APEX DLC (Tanoa)](https://store.steampowered.com/app/395180/Arma_3_Apex/)
 
-Created by @c.eagle - https://drive.google.com/file/d/
+Created by @heroslaw2821 - https://drive.google.com/file/d/1h1hz-LNiJA75KZoGD-Wydv7zQVEeqj-L/view?usp=sharing
+
+## UK - CE_UK.grm3a
+Requires:
+
+- [Arma Realistic Map Assets V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
+- [CE - GRM Studio (Assets)](https://steamcommunity.com/sharedfiles/filedetails/?id=3368850834)
+
+Created by @c.eagle - https://drive.google.com/file/d/1T29qymkVhBFNAcmQnzetJJt6lCQP70ow/view?usp=sharing
+

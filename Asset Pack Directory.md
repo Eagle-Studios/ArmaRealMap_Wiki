@@ -56,8 +56,17 @@ Created by @heroslaw2821 - https://drive.google.com/file/d/1h1hz-LNiJA75KZoGD-Wy
 ## UK - CE_UK.grm3a
 Requires:
 
-- [Arma Realistic Map Assets V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
 - [CE - GRM Studio (Assets)](https://steamcommunity.com/sharedfiles/filedetails/?id=3368850834)
+- [CE - GRM Studio (Licensed Repacks)](https://steamcommunity.com/sharedfiles/filedetails/?id=3392260648)
+- [CUP Terrains - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
 
 Created by @c.eagle - https://drive.google.com/file/d/1T29qymkVhBFNAcmQnzetJJt6lCQP70ow/view?usp=sharing
 
+## Generic America - CE_AmericaGeneric
+Requires:
+
+- [CE - GRM Studio (Assets)](https://steamcommunity.com/sharedfiles/filedetails/?id=3368850834)
+- [CE - GRM Studio (Licensed Repacks)](https://steamcommunity.com/sharedfiles/filedetails/?id=3392260648)
+- [CUP Terrains - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
+
+Created by @c.eagle - https://drive.google.com/file/d/1T29qymkVhBFNAcmQnzetJJt6lCQP70ow/view?usp=sharing

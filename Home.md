@@ -20,8 +20,13 @@
 - [Create a map for Arma 3](Create-a-map-for-Arma-3)
 - [Create an asset configuration for Arma 3](Create-an-asset-configuration-for-Arma-3)
 
-## Improve result
+## Improving a map
 
 - Edit and improve OpenStreetMap data 
 - Basic terrain making: [Edit with Eden editor](Edit-With-Eden-Editor)
 - Advanced terrain making: [Export to Terrain Buillder](Terrain-Builder-Export)
+
+## Additional Resources
+Use these resources for more advanced configs. 
+
+- Although it's built for Arma 2, the config is almost entirely the same; this guide provides great references and config inputs: https://sites.google.com/site/islandconfigs/home?authuser=0

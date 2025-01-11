@@ -17,7 +17,7 @@ Firstly you need to select an area in which to create a map, you navigate the ma
 - Use the left mouse click (holding it down), to drag your view around the map.
 - Use the mouse scroll wheel, to zoom in and out.
 
-Once you have found your area and/or location where you wish to create a map, you will need to select the area:
+Once you have found your area and/or location where you wish to create a map, you will need to select the area:  <br>
 
 Please note that an area you select will need to adhere to the following:
 - Area MUST be square
@@ -25,13 +25,17 @@ Please note that an area you select will need to adhere to the following:
 
 ## Option 1 : Select from center
 
-You can select an area from it's center. Press the Alt key, then press the mouse left button on the center, then while pressing the mouse left button move the mouse to create a square around wanted area. When the square creates the wanted size, you can release the mouse button (it must remain within the map).
+You can select an area from it's center.  <br>
+Press the Alt key, then press the mouse left button on the center, then while pressing the mouse left button move the mouse to create a square around wanted area.  <br>
+When the square creates the wanted size, you can release the mouse button (it must remain within the map).
 
 ![FromCenter](https://github.com/jetelain/ArmaRealMap/assets/33651126/e43e4173-00fc-464b-90f1-ea571549aabd)
 
 ## Option 2 : Select from a corner
 
-You can select an area from a corner. Press the Ctrl key, then press the mouse left button on on of the corcer, then while pressing the mouse left button move the mouse to the opposite corner to create a square around wanted area. When the square creates the wanted size, you can release the mouse button (it must remain within the map).
+You can select an area from a corner.  <br>
+Press the Ctrl key, then press the mouse left button on on of the corner, then while pressing the mouse left button move the mouse to the opposite corner to create a square around wanted area.  <br>
+When the square creates the wanted size, you can release the mouse button (it must remain within the map).
 
 ![FromCorner](https://github.com/jetelain/ArmaRealMap/assets/33651126/1957ba2b-5485-4fb1-b6f5-7cd566cf183b)
 
@@ -49,7 +53,7 @@ Example: SMPX_Hawaii
 
 ## PBO Prefix
 
-The PBO Prefix is what the exported pbo will be named. 
+The PBO Prefix is what the exported pbo will be named.  <br>
 For the best workflow practices, you should copy the Worldname and paste it here, so that they are the exact same. 
 
 ## Tile Size
@@ -66,26 +70,28 @@ Leave this alone for now
 
 ## Satellite Image Blend
 
-The slider can be adjusted to blend between either the real/actual satellite image or the texture that Open Street Map has defined the area to be.
+The slider can be adjusted to blend between either the real/actual satellite image or the texture that Open Street Map has defined the area to be.  <br>
+A value of no more than 0.85 is recommended!
 
 ## Mod Directory
 
-By default (without editing), this will show a ghost file path of where the created map will export itself to. 
+By default (without editing), this will show a ghost file path of where the created map will export itself to.  <br>
 Only add/change this if you need to modify where exported worlds/mods are sent. 
 
 
 # 4. Asset Configuration
 
-The area you have selected may not be suitable for the default assets that are included in the "CentralEurope.grma3a" asset pack. 
+The area you have selected may not be suitable for the default assets that are included in the "CentralEurope.grma3a" asset pack.  <br>
 
-It is HIGHLY suggested that you browse through the [directory of premade asset packs](Asset-Pack-Directory) in order to find a pack that suits your maps' climate, rather than attempting to edit or even create your own asset pack. Ensure you download any of the required mods and that you install them into GRM Studio properly.
+It is HIGHLY suggested that you browse through the [directory of premade asset packs](Asset-Pack-Directory) in order to find a pack that suits your maps' climate, rather than attempting to edit or even create your own asset pack.  <br>
+Ensure you download any of the required mods and that you install them into GRM Studio properly.  <br>
 
-IF you have downloaded a premade asset pack, using the ```...``` you can navigate to where your downloaded .grma3a file is located (Usually in your downloads folder). 
-IF you are not downloading a premade asset pack, and instead are using one of the 2 built-in asset packs, please, please, please, read the information located about them within the [directory of premade asset packs](Asset-Pack-Directory) as it contains important information about these 2 built-ins. 
+IF you have downloaded a premade asset pack, using the ```...``` you can navigate to where your downloaded .grma3a file is located (Usually in your downloads folder).  <br>
+IF you are not downloading a premade asset pack, and instead are using one of the 2 built-in asset packs, please, please, please, read the information located about them within the [directory of premade asset packs](Asset-Pack-Directory) as it contains important information about these 2 built-ins.
 
 ## Installing mods into GRM Studio
-In order to install mods, you will first need to ensure that you have actually subscribed and downloaded the mods you wish to use. 
-Now within GRM Studio navigate the menu via ```Tools > Options > Arma 3 > Mods```, here you can tick (or untick) mods that you wish or to add (or unadd) to the studio application. 
+In order to install mods, you will first need to ensure that you have actually subscribed and downloaded the mods you wish to use.  <br>
+Now within GRM Studio navigate the menu via ```Tools > Options > Arma 3 > Mods```, here you can tick (or untick) mods that you wish or to add (or unadd) to the studio application.  <br>
 Ensure you only add mods that will be 100% required to use the map 
 - I.E. There is no need to add 3den Enhanced, as it is a soft dependency mod, and as such doesn't need to be added into GRM Studio in order to load/use a map. 
 
@@ -100,7 +106,7 @@ ALWAYS select this, unless you are planning on using Arma 3's Terrain Builder to
 Only select this, if you no longer need to use GRM Studio's functions, and wish to export your OSM Map data into a file which can be used in Arma 3's Terrain Builder tool.
 
 # 6. Generate Mod for Arma 3
-Selecting this button will export your map configuration file and all it's layers into pbo and into a mod ready to be used in Arma 3. 
+Selecting this button will export your map configuration file and all it's layers into pbo and into a mod ready to be used in Arma 3.  <br>
 The amount of time for this process to do its thing and finish will vary on a variety of factors:
 - The size of the area you have selected
 - The complexity of the area you have selected
@@ -111,7 +117,7 @@ You will know when the process has finished, as this will pop up:
 ![image](https://cdn.discordapp.com/attachments/1135252966144737290/1301280603664285786/image.png?ex=6723e780&is=67229600&hm=0658de7288dfe3e49d00ebe44293198c5ba4b8e74adb15b789e98846a12c6cc1&)
 
 # 7. Using the Generate Mod
-Adding it to the Launcher, Seeing in-game
+Adding it to the Launcher, Seeing in-game:
 1. Once the pop-up (As shown above) has appeared, select the "View in File Explorer" option. It should open up file explorer.
 2. Go up 1 folder, so that now you are looking at a folder named @YourWorldName
 3. Open up Arma 3 launcher, and drag the *above* folder onto the launcher.
@@ -123,13 +129,13 @@ Adding it to the Launcher, Seeing in-game
 7. Open the map in 3den, via the Editor main screen, selecting your created map in the map options. 
 
 # 8. Improve Your Map
-You can now move onto improving your map!
+You can now move onto improving your map!  <br>
 
-You can use Eden Editor (Arma 3 builtin scenario editor) to edit map to improve the generator result. This is the recommended way for most users. See [Edit With Eden Editor](Edit-With-Eden-Editor).
+You can use Eden Editor (Arma 3 builtin scenario editor) to edit map to improve the generator result. This is the recommended way for most users. See [Edit With Eden Editor](Edit-With-Eden-Editor).  <br>
 
-You may otherwise use Terrain Builder to edit map, this tool is intended for experienced terrain makers. See [Terrain Builder Export](Terrain-Builder-Export).
+You may otherwise use Terrain Builder to edit map, this tool is intended for experienced terrain makers. See [Terrain Builder Export](Terrain-Builder-Export).  <br>
 
-Comparison of features of two edit process:
+Comparison of features of two edit process:  <br>
 
 | Feature                   | [Eden Editor](Edit-With-Eden-Editor) | [Terrain Builder](Terrain-Builder-Export) |
 |---------------------------|-------------------|----------------------------|
@@ -156,11 +162,11 @@ Comparison of features of two edit process:
 
 ## Contribute to OpenStreetMap
 
-You can fix issues in OpenStreetMap data by editing on OpenStreetMap.org, or simply improve data by adding more details.
+You can fix issues in OpenStreetMap data by editing on OpenStreetMap.org, or simply improve data by adding more details.  <br>
 
-WARNING: OpenStreetMap MUST remain the exact image of actual reality, **DO NOT ADD FICTIONAL DETAILS** to OpenStreetMap for your needs!
+WARNING: OpenStreetMap MUST remain the exact image of actual reality, **DO NOT ADD FICTIONAL DETAILS** to OpenStreetMap for your needs!  <br>
 
-Follow the OpenStreetMap guidelines : https://wiki.openstreetmap.org/wiki/Contribute_map_data
+Follow the OpenStreetMap guidelines : https://wiki.openstreetmap.org/wiki/Contribute_map_data  <br>
 
 ## Contribute to GameRealisticMap
 

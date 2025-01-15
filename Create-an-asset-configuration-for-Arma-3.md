@@ -150,6 +150,7 @@ Forest Edge objects should have a Fit Radius of 0, or a really small value, to r
 
 
 # Ground textures
+You need to either use the pre-existing textures or create your own --INSERT LINK to creating ground detail textures--
 
 
 # Roads

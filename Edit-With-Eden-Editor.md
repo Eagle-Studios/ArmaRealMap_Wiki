@@ -104,3 +104,6 @@ Click on "Generate a mod for Arma 3" to re-generate the mod.
 If editing went wrong, you can easily get back to a previous version of the map with the "File history". On the previous version, click on "Restore", then Save the file, and click again on "Generate a mod for Arma 3". Last 10 saved versions are kept to revert any wrong edit.
 
 ![image](https://github.com/jetelain/ArmaRealMap/assets/33651126/15e65175-6d96-49a7-a056-769aadb87580)
+
+If you have used plopper or paint to define a new surface (and you have ensured these surfaces are present in CfgSurfaces & CfgLayers) but you are still unsure of why your surface might not be working?
+I would suggest using this great guide/script that identify most issues arising from Surfaces and Clutter: https://gist.github.com/pennyworth12345/6670b948f2cde80d28ad01ebd584db1c

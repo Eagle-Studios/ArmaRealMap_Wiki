@@ -53,14 +53,14 @@ Requires:
 
 Created by @heroslaw2821 - https://drive.google.com/file/d/1h1hz-LNiJA75KZoGD-Wydv7zQVEeqj-L/view?usp=sharing
 
-## UK - CE_UK.grm3a
+## UK - CE_UK.grm3a  --CURRENTLY BEING REWORKED--
 Requires:
 
 - [CE - GRM Studio (Assets)](https://steamcommunity.com/sharedfiles/filedetails/?id=3368850834)
 - [CE - GRM Studio (Licensed Repacks)](https://steamcommunity.com/sharedfiles/filedetails/?id=3392260648)
 - [CUP Terrains - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
 
-Created by @c.eagle - https://drive.google.com/file/d/1T29qymkVhBFNAcmQnzetJJt6lCQP70ow/view?usp=sharing
+Created by @c.eagle - https://drive.google.com/file/d/1T29qymkVhBFNAcmQnzetJJt6lCQP70ow/view?usp=sharing 
 
 ## Generic America - CE_AmericaGeneric
 Requires:
@@ -69,4 +69,4 @@ Requires:
 - [CE - GRM Studio (Licensed Repacks)](https://steamcommunity.com/sharedfiles/filedetails/?id=3392260648)
 - [CUP Terrains - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
 
-Created by @c.eagle - https://drive.google.com/file/d/1T29qymkVhBFNAcmQnzetJJt6lCQP70ow/view?usp=sharing
+Created by @c.eagle [More Info](https://github.com/Eagle-Studios/CE_Mods/wiki/CE-GRMSA#ce_grmsa_americaworld) - https://drive.google.com/file/d/1TKnXBK7NFLl-JoMMR4d9tB7XluhKd6nW/view?usp=sharing

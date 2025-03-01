@@ -7,7 +7,7 @@
 2. Install [Arma 3 tools](Install-required-tools-for-Arma-3) fully and properly.
 3. Follow the [Wiki](Create-a-map-for-Arma-3)! (Don't skip steps/do as you want, you will most likely miss something and get stuck).
 4. Start small! 
-    - Do not jump straight into a huge map and then whinge on the discord as to *why is this tool is broken*.
+    - Do not jump straight into a huge map and then whinge on the discord (or Arma 's Discord) as to *why is this tool is broken*.
     - Do not start messing around with textures and asset configurations until you actually know what you are doing!
 5. Do take the time to read through this guide and maybe even the the original [PMC ArmA 3 Ultimate Terrain Tutorial](https://pmc.editing.wiki/doku.php?id=arma3:terrain:ultimate-terrain-tutorial)
 6. Learn how to use [3den Editor](Edit-With-Eden-Editor) to edit terrains.

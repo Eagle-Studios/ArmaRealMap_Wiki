@@ -107,3 +107,19 @@ If editing went wrong, you can easily get back to a previous version of the map 
 
 If you have used plopper or paint to define a new surface (and you have ensured these surfaces are present in CfgSurfaces & CfgLayers) but you are still unsure of why your surface might not be working?
 I would suggest using this great guide/script that identify most issues arising from Surfaces and Clutter: https://gist.github.com/pennyworth12345/6670b948f2cde80d28ad01ebd584db1c
+
+
+## FAQs
+### How do I change the road textures for my map?
+ - Go to your data folder > roads > roadslib.cfg
+  - Your data folder can be found via ![image](https://cdn.discordapp.com/attachments/1135252966144737290/1345027961358651454/image.png?ex=67c45fe7&is=67c30e67&hm=c0f91e77bfb9d3ebf1c2e47342b4e36df0e85c84c7e95bfd96c3b3d51728746f&) obviously the names and prefixes will be different. 
+  - When editing your roadlibs.cfg, it will look like this ![image](https://cdn.discordapp.com/attachments/1135252966144737290/1345024770168852590/image.png?ex=67c45cee&is=67c30b6e&hm=7cb3f3d56d8cd02f13d3b39dffd7060b84ee53c15216f2b9e06c7f9e41cfb3c9&)
+  - What do these values mean?!
+    - width: Width of the road texture. 
+    - mainStrTex: Main road texture, file path. 
+    - mainTerTex: End of road texture, file path. (Interally referred to as a Konec)
+    - mainMat: RVMAT of road texture, file path. 
+    - map: The style of road shown on the map (Ex: "main road", "road", "track", "trail" >> Only use one of these values, you cannot add any!)
+    - Alpathoffset: The offset in which AI drivers will drive. 
+      - This is not only useful for Right/Left hand drive setting, but also for how far from the middle of the road do you want the spacing to be
+    - pedestriansOnly: Is this road for cars or people? (If only people, walking then use "true")

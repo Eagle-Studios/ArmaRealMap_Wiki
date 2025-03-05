@@ -13,6 +13,8 @@
 6. Learn how to use [3den Editor](Edit-With-Eden-Editor) to edit terrains.
 7. Learn how to use [plopper](https://steamcommunity.com/sharedfiles/filedetails/?id=1687651646) to edit terrains.
 8. Start messing around with Ground Textures or Asset configurations. 
+    - Adding [Ground Texures](Add-Ground-Textures)
+    - Creating an [Asset Configuration](Create-an-asset-configuration-for-Arma-3)
 9. Try a bigger map size. 
     - Do not try stupid map sizes (more than 30km x 30km)
     - Do not try to create a map with heavily wooded or dense cities without creating a suitable asset configuration (Each tree or building has to be scanned in OSM and attempted to be placed by the tool = aka lots and lots and lots of assets (trees are the worst of these))

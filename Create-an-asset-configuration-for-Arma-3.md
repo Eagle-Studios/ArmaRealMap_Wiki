@@ -51,6 +51,11 @@ To use object from other mods, open application settings, in mods sections, chec
 
 Natural areas are filled with objects specified in the asset configuration. For each areas multiple objects types are used for filling using two algorithms. Most area are filled by two sets of objects (main then additional).
 
+## IMPORTANT
+**ONLY** add objects that are 100% needed! <br>
+The natural areas **ARE NOT** compatible with clutter... meaning if you change the ground surface texture, these objects will remain and the ONLY way to remove them is to hide them. <br>
+Personally I would **ONLY** add Trees (Forest Areas), Large Rocks (Rock Areas) to any of these, as cfgsurfaceclutter from cfgsurfaces adds (and also removes) everything else. <br>
+
 Each natural area have also a specific ground texture, which includes random small ground objets (clutter). See dedicated section for details.
 
 You can add multiple variations for each type. For each area a variation will be randomly chosen.

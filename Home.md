@@ -3,7 +3,7 @@
 # Want to create a map, using GameRealisticMap Studio?
 
 ## Important Rules / Guidlines to follow (In this order!)
-1. Download GameRealisticMap Studio, from either [Microsoft Store](https://www.microsoft.com/store/productId/9MTJ3C92Q53C) or [Github Releases](https://github.com/jetelain/ArmaRealMap/releases).
+1. Download GameRealisticMap Studio, from [Github Releases](https://github.com/jetelain/ArmaRealMap/releases).
 2. Install [Arma 3 tools](Install-required-tools-for-Arma-3) fully and properly.
 3. Follow the [Wiki](Create-a-map-for-Arma-3)! (Don't skip steps/do as you want, you will most likely miss something and get stuck).
 4. Start small! 

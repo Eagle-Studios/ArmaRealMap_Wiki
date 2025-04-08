@@ -74,7 +74,7 @@ Created by @c.eagle - https://drive.google.com/file/d/1XbS2P7D1-6CzA2H4u3180NQyM
 
 
 
-
+~~
 ## UK - CE_UK.grm3a  -- CURRENTLY BEING REWORKED -- DO NOT DOWNLOAD
 Requires:
 
@@ -92,3 +92,4 @@ Requires:
 - [CUP Terrains - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
 
 Created by @c.eagle [More Info](https://github.com/Eagle-Studios/CE_Mods/wiki/CE-GRMSA#ce_grmsa_americaworld) - https://drive.google.com/file/d/1TKnXBK7NFLl-JoMMR4d9tB7XluhKd6nW/view?usp=sharing
+~~

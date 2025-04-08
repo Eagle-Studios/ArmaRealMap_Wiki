@@ -49,9 +49,31 @@ Created by @shearstf - https://drive.google.com/file/d/1t5DRr4MNKgzbYX_hZbhmagrh
 Requires:
 
 - [Arma Realistic Map Assets V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
-- [APEX DLC (Tanoa)](https://store.steampowered.com/app/395180/Arma_3_Apex/)
+- It does not require APEX! (APEX assets are free for anyone to use (It's the weapons, vehicles and the Tanoa map itself that are locked behind the DLC))
 
 Created by @heroslaw2821 - https://drive.google.com/file/d/1h1hz-LNiJA75KZoGD-Wydv7zQVEeqj-L/view?usp=sharing
+
+## Generic Winter - CE_GenericWinter.grma3a
+Requires:
+
+- [Arma Realistic Map Assets V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2982306133)
+- [CE - Terrains (Core)](https://steamcommunity.com/sharedfiles/filedetails/?id=3368850834)
+- [CE - Terrains (Core-Winter)](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3460302421)
+- It does not require Contact/Enoch! (Enoch assets are free for anyone to use (It's the weapons, vehicles and the Livonia map itself that are locked behind the DLC))
+
+Created by @c.eagle - https://drive.google.com/file/d/1XbS2P7D1-6CzA2H4u3180NQyMTla5f3_/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## UK - CE_UK.grm3a  -- CURRENTLY BEING REWORKED -- DO NOT DOWNLOAD
 Requires:
